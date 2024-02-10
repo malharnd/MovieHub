@@ -73,17 +73,24 @@ With its comprehensive features and seamless integration capabilities, MovieHub 
 **Cloud Services:** Oracle Cloud Infrastructure (OCI)
 
 
-
 ## Screenshots
 
-![App Screenshot](images/Login.png)
+### Login Page
+![Login Page](images/Login.png)
+Allows users to log in to their MovieHub accounts.
 
-![App Screenshot](images/Profiles.png)
+### Profiles Page
+![Profiles Page](images/Profiles.png)
+Displays user profiles with movie preferences and viewing history.
 
-![App Screenshot](images/Recommendation.png)
+### Recommendation Page
+![Recommendation Page](images/Recommendation.png)
+Shows personalized movie recommendations based on user data.
 
-![App Screenshot](images/Top_Trending_Movie.png)
+### Top Trending Movie
+![Top Trending Movie](images/Top_Trending_Movie.png)
+Displays the most popular movies among MovieHub users.
 
-![App Screenshot](images/Analytics_Dashboard.png)
-
-
+### Analytics Dashboard
+![Analytics Dashboard](images/Analytics_Dashboard.png)
+Provides insights into user demographics and movie trends.
